@@ -1,0 +1,29 @@
+.DS_Store
+node_modules
+.history/
+dump.rdb
+package-lock.json
+/dist
+!.vscode
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Editor directories and files
+.idea
+_test.js
+
+# Sma-light
+build/
+node/
+/src/app/eslintrc.js
+/src/app/yarn.lock
+/yarn.lock
+
+
+
+/src/app/utils/common.js
+/src/app/vue.config.js
